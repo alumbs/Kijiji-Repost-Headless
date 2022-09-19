@@ -1,0 +1,35 @@
+postAdForm.attributeMap[numberbedrooms_s]: "9"
+postAdForm.attributeMap[numberbathrooms_s]: "15"
+postAdForm.addressProvince: Manitoba
+postAdForm.attributeMap[areainfeet_i]: "900"
+postAdForm.title: I Pay Cash
+postAdForm.addressStreetNumber: 493 queen st, winnipeg, mb
+postAdForm.addressStreetName: Queen
+postAdForm.addressCity: Winnipeg
+postAdForm.addressPostalCode: R3J 1J1
+postAdForm.priceAmount: 299,900
+postAdForm.phoneNumber: "2048038641"
+postAdForm.adType: WANTED
+postAdForm.attributeMap[forsalebyhousing_s]: ownr
+postAdForm.priceType: CONTACT
+postAdForm.city: Winnipeg
+postAdForm.province: Manitoba
+postAdForm.postalCode: R3J 1J1
+postAdForm.geocodeLat: "49.8875218"
+postAdForm.geocodeLng: "-97.2069885"
+postAdForm.locationId: 1700192
+PostalLat: "49.8875218"
+PostalLng: "-97.2069885"
+locationLevel0: 9006
+topAdDuration: "7"
+submitType: saveAndCheckout
+postAdForm.description:
+  Looking to sell your house FAST?\nNot wanting to waste money
+  on realtor fees?\nWe buy houses in Any Condition, Any Situation, Any Area.\nHouse
+  might fall over? we will BUY IT.\n204-803-8641
+categoryId: 35
+image_paths:
+  - img1.jpeg
+  - img2.jpeg
+  - img3.jpeg
+  - img4.jpeg
